@@ -1,4 +1,4 @@
-(this is the original readme fro the cloned repo)
+(this is the original readme from the cloned repo)
 
 # AI-Reading-Materials
 
